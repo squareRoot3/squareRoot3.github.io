@@ -28,14 +28,14 @@ with real-world applications in **healthcare**, **education**, **finance**, etc.
   ***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
   ICDE 2023
   
-- Rethinking Graph Neural Networks for Anomaly Detection
+- Rethinking Graph Neural Networks for Anomaly Detection <br>
 [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
 [[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
 <a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
 ***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
 ICML 2022
 
-- Target-guided Open-Domain Conversation
+- Target-guided Open-Domain Conversation  <br>
 [[paper]](https://aclanthology.org/P19-1565.pdf)
 [[slides]](https://drive.google.com/file/d/1E4CRR2qG02GyEn7hYEH_rhr53Gkgo6Ki/view?usp=share_link) 
 <a class="github-button" href="https://github.com/squareroot3/target-guided-conversation" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Target-Guided-Conversation</a><br>
