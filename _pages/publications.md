@@ -53,7 +53,7 @@ ACL 2021 (Findings)
 ACL 2021
 
 - Heterogeneous graph reasoning for knowledge-grounded medical dialogue system
-[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
 *Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
 NeuralComputing 2021
 
