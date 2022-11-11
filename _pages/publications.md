@@ -43,7 +43,7 @@ NLPCC 2022
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
 [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
 <a class="github-button" href="https://github.com/chen-judge/GeoQA" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GeoQA</a><br>
-*Jiaqi Chen^, **Jianheng Tang**^, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin*<br>
+*Jiaqi Chen^, **Jianheng Tang^**, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin*<br>
 ACL 2021 (Findings)
 
 - Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks
