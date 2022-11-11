@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 ## Publications
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
@@ -19,6 +21,9 @@ author_profile: true
 <iframe src="https://ghbtns.com/github-btn.html?user=squareroot3&repo=target-guided-conversation&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe><br>
 Jianheng Tang, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu <br>
 ACL 2019 (Oral)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/buttons/github-buttons" data-icon="octicon-star" aria-label="Star buttons/github-buttons on GitHub">Star</a>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=squareroot3&repo=target-guided-conversation&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
