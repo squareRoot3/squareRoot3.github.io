@@ -31,13 +31,13 @@ ACL 2019 (Oral)
 - "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics <br>
 [[paper]](https://arxiv.org/pdf/2204.13953v2.pdf)
 <a class="github-button" href="https://github.com/lwgkzl/br-agent" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BR-Agent</a><br>
-*Wenge Liu, Yi Cheng, Hao Wang, Jianheng Tang, Yafei Liu, Ruihui Zhao, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
+*Wenge Liu, Yi Cheng, Hao Wang, **Jianheng Tang**, Yafei Liu, Ruihui Zhao, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
 IJCAI 2022
 
 - MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation
 [[paper]](https://arxiv.org/pdf/2010.07497)
 <a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
-*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang* (^ Equal Contribution)<br>
+*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang* (^: Equal Contribution)<br>
 NLPCC 2022
 
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
@@ -72,7 +72,7 @@ AAAI 2020
 - End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis
 [[paper]](https://arxiv.org/pdf/1901.10623v2.pdf)
 <a class="github-button" href="https://github.com/HCPLab-SYSU/Medical_DS" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Medical_DS</a><br>
-*Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, Jianheng Tang, Liang Lin*
+*Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*
 AAAI 2019 (Oral)
 
  
