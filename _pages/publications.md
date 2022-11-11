@@ -31,19 +31,19 @@ ACL 2019 (Oral)
 - "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics <br>
 [[paper]](https://arxiv.org/pdf/2204.13953v2.pdf)
 <a class="github-button" href="https://github.com/lwgkzl/br-agent" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BR-Agent</a><br>
-***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
+***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* (^ Equal Contribution) <br>
 IJCAI 2022
 
 - MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation
 [[paper]](https://arxiv.org/pdf/2010.07497)
 <a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
-*Wenge Liu, **Jianheng Tang**, Yi Cheng, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
+*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
 NLPCC 2022
 
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
 [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
 <a class="github-button" href="https://github.com/chen-judge/GeoQA" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GeoQA</a><br>
-***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
+*Jiaqi Chen^, **Jianheng Tang**^, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin*<br>
 ACL 2021 (Findings)
 
 - Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks
@@ -54,7 +54,7 @@ ACL 2021
 
 - Heterogeneous graph reasoning for knowledge-grounded medical dialogue system
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678)
-*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai <br>
+*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
 NeuralComputing 2021
 
 - Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation
