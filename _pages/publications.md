@@ -31,13 +31,13 @@ ACL 2019 (Oral)
 - "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics <br>
 [[paper]](https://arxiv.org/pdf/2204.13953v2.pdf)
 <a class="github-button" href="https://github.com/lwgkzl/br-agent" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BR-Agent</a><br>
-***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* (^ Equal Contribution) <br>
+*Wenge Liu, Yi Cheng, Hao Wang, Jianheng Tang, Yafei Liu, Ruihui Zhao, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
 IJCAI 2022
 
 - MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation
 [[paper]](https://arxiv.org/pdf/2010.07497)
 <a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
-*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
+*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang* (^ Equal Contribution)<br>
 NLPCC 2022
 
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
@@ -79,7 +79,3 @@ AAAI 2019 (Oral)
 ## Preprints
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
-
-
-  
-^ := Equal contribution.
