@@ -11,8 +11,7 @@ author_profile: true
   **Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li <br>
   ICDE 2023
   
-- Rethinking Graph Neural Networks for Anomaly Detection [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) [[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
-<iframe src="https://ghbtns.com/github-btn.html?user=squareroot3&repo=rethinking-anomaly-detection&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe><br>
+- Rethinking Graph Neural Networks for Anomaly Detection [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) [[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)<iframe src="https://ghbtns.com/github-btn.html?user=squareroot3&repo=rethinking-anomaly-detection&type=star&count=true" frameborder="0" scrolling="0" width="30" height="10" title="GitHub"></iframe><br>
   **Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li. <br>
   ICML 2022
 
