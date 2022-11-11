@@ -17,13 +17,12 @@ author_profile: true
   **Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li. <br>
   ICML 2022
 
-- Target-guided Open-Domain Conversation [[paper]](https://aclanthology.org/P19-1565.pdf) [[slides]](https://drive.google.com/file/d/1E4CRR2qG02GyEn7hYEH_rhr53Gkgo6Ki/view?usp=share_link)
-<iframe src="https://ghbtns.com/github-btn.html?user=squareroot3&repo=target-guided-conversation&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe><br>
+- Target-guided Open-Domain Conversation [[paper]](https://aclanthology.org/P19-1565.pdf) [[slides]](https://drive.google.com/file/d/1E4CRR2qG02GyEn7hYEH_rhr53Gkgo6Ki/view?usp=share_link)<a class="github-button" href="https://github.com/buttons/github-buttons" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Star</a>
 Jianheng Tang, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu <br>
 ACL 2019 (Oral)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/buttons/github-buttons" data-icon="octicon-star" aria-label="Star buttons/github-buttons on GitHub">Star</a>
+<a class="github-button" href="https://github.com/squareroot3/target-guided-conversation" data-icon="octicon-star" aria-label="Star buttons/github-buttons on GitHub">Star</a>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=squareroot3&repo=target-guided-conversation&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
