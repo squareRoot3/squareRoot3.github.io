@@ -34,13 +34,11 @@ ACL 2019 (Oral)
 ***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
 IJCAI 2022
 
-
 - MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation
 [[paper]](https://arxiv.org/pdf/2010.07497)
 <a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
 *Wenge Liu, **Jianheng Tang**, Yi Cheng, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
 NLPCC 2022
-
 
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
 [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
@@ -51,13 +49,13 @@ ACL 2021 (Findings)
 - Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks
 [[paper]](https://aclanthology.org/2021.acl-long.456.pdf)
 <a class="github-button" href="https://github.com/QinJinghui/NS-Solver" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">NS-Solver</a><br>
-*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai <br>
-ACL 2021 (Findings)
+*Jinghui Qin, Xiaodan Liang, Yining Hong, **Jianheng Tang**, Liang Lin* <br>
+ACL 2021
 
 - Heterogeneous graph reasoning for knowledge-grounded medical dialogue system
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678)
-*Jinghui Qin, Xiaodan Liang, Yining Hong, **Jianheng Tang**, Liang Lin* <br>
-NeuralComputing 2021.
+*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai <br>
+NeuralComputing 2021
 
 - Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17577/17384)
