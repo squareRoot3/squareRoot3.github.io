@@ -72,7 +72,7 @@ AAAI 2020
 - End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis
 [[paper]](https://arxiv.org/pdf/1901.10623v2.pdf)
 <a class="github-button" href="https://github.com/HCPLab-SYSU/Medical_DS" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Medical_DS</a><br>
-*Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*
+*Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*  <br>
 AAAI 2019 (Oral)
 
  
