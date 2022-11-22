@@ -29,7 +29,7 @@ ACL 2019 (Oral)
 
 ## Other Publications
 - Handling Missing Data via Max-Entropy Regularized Graph Autoencoder <br>
-*Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*
+*Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*  <br>
 AAAI 2023
 
 - "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics <br>
