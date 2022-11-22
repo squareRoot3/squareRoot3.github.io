@@ -28,6 +28,10 @@ ICML 2022
 ACL 2019 (Oral)
 
 ## Other Publications
+- Handling Missing Data via Max-Entropy Regularized Graph Autoencoder <br>
+*Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*
+AAAI 2023
+
 - "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics <br>
 [[paper]](https://arxiv.org/pdf/2204.13953v2.pdf)
 <a class="github-button" href="https://github.com/lwgkzl/br-agent" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BR-Agent</a><br>
