@@ -27,6 +27,10 @@ ICML 2022
 ***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
 ACL 2019 (Oral)
 
+## Preprints
+- Fast Provably Convergent Algorithms for Gromov-Wasserstein in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
+  Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
+
 ## Other Publications
 - Handling Missing Data via Max-Entropy Regularized Graph Autoencoder <br>
 *Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*  <br>
@@ -78,8 +82,3 @@ AAAI 2020
 <a class="github-button" href="https://github.com/HCPLab-SYSU/Medical_DS" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Medical_DS</a><br>
 *Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*  <br>
 AAAI 2019 (Oral)
-
- 
-## Preprints
-- Fast Provably Convergent Algorithms for Gromov-Wasserstein in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
-  Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
