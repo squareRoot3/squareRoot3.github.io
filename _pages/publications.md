@@ -16,6 +16,7 @@ author_profile: true
 - Rethinking Graph Neural Networks for Anomaly Detection
 [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
 [[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
+[[in Chinese]](https://www.jiqizhixin.com/articles/2022-06-10-3)
 <a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
 ***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
 ICML 2022
