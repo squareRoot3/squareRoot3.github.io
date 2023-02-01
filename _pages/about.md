@@ -25,6 +25,8 @@ with real-world applications in **healthcare**, **education**, **finance**, etc.
 
 ## Selected Publications
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
+[[paper]](https://arxiv.org/abs/2301.12721) 
+<a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
   ***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
   ICDE 2023
   
