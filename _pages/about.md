@@ -24,6 +24,7 @@ with real-world applications in **healthcare**, **education**, **finance**, etc.
 
 
 ## Selected Publications
+
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
 [[paper]](https://arxiv.org/abs/2301.12721) 
 <a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
@@ -46,13 +47,13 @@ ICML 2022
 ***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
 ACL 2019 (Oral)
 
-## Preprints
-- Fast Provably Convergent Algorithms for Gromov-Wasserstein in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
-  Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
-
-
 
 ## Other Publications
+- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data 
+- [[OpenReview]](https://openreview.net/forum?id=0jxPyVWmiiF) <br>
+  Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
+ICLR 2023
+
 - Handling Missing Data via Max-Entropy Regularized Graph Autoencoder [[paper]](https://arxiv.org/abs/2211.16771)<br>
 *Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*  <br>
 AAAI 2023
