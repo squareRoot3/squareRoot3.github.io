@@ -25,8 +25,13 @@ with real-world applications in **healthcare**, **education**, **finance**, etc.
 
 ## Selected Publications
 
+- A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
+***Jianheng Tang**, Kangfei Zhao, Jia Li* <br>
+ACL 2023 (Findings)
+
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
-[[paper]](https://arxiv.org/abs/2301.12721) 
+[[paper]](https://arxiv.org/abs/2301.12721)
+[[slides]](https://drive.google.com/file/d/1dI1aCuqlO0NlPXQxaT85YGZzRRsx5VFg/view?usp=sharing)
 <a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
   ***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
   ICDE 2023
@@ -36,9 +41,17 @@ with real-world applications in **healthcare**, **education**, **finance**, etc.
 [[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
 [[Article (in Chinese)]](https://www.jiqizhixin.com/articles/2022-06-10-3)
 [[Talk (in Chinese)]](https://www.bilibili.com/video/BV1BG411p7og/)
+[[Talk (in English)]](https://slideslive.com/38984068/rethinking-graph-neural-networks-for-anomaly-detection?ref=speaker-24150)
 <a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
 ***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
 ICML 2022
+
+- GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
+[[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
+[[Article (in Chinese)]](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247516415&idx=2&sn=efa68338a8175608178f56dd99bcd54d&scene=21#wechat_redirect)
+<a class="github-button" href="https://github.com/chen-judge/GeoQA" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GeoQA</a><br>
+*Jiaqi Chen^, **Jianheng Tang^**, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin* (^: Equal Contribution)<br>
+ACL 2021 (Findings)
 
 - Target-guided Open-Domain Conversation  <br>
 [[paper]](https://aclanthology.org/P19-1565.pdf)
@@ -50,7 +63,7 @@ ACL 2019 (Oral)
 
 ## Other Publications
 - A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data 
-- [[OpenReview]](https://openreview.net/forum?id=0jxPyVWmiiF) <br>
+[[OpenReview]](https://openreview.net/forum?id=0jxPyVWmiiF) <br>
   Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
 ICLR 2023
 
@@ -67,14 +80,8 @@ IJCAI 2022
 - MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation
 [[paper]](https://arxiv.org/pdf/2010.07497)
 <a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
-*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang* (^: Equal Contribution)<br>
+*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang*<br>
 NLPCC 2022
-
-- GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
-[[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
-<a class="github-button" href="https://github.com/chen-judge/GeoQA" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GeoQA</a><br>
-*Jiaqi Chen^, **Jianheng Tang^**, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin*<br>
-ACL 2021 (Findings)
 
 - Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks
 [[paper]](https://aclanthology.org/2021.acl-long.456.pdf)
