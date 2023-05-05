@@ -92,7 +92,7 @@ ACL 2021
 - Heterogeneous graph reasoning for knowledge-grounded medical dialogue system
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
 *Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
-NeuralComputing 2021
+NeuroComputing 2021
 
 - Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17577/17384)
