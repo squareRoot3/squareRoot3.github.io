@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+> He never grew up, but he never stop growing.
+
 Currently, I am a second year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
 advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou/home).
 
