@@ -74,8 +74,7 @@ ACL 2019 (Oral)
 - A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data 
 [[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
 <a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
- <br>
-  Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
+Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
 ICLR 2023
 
 - Handling Missing Data via Max-Entropy Regularized Graph Autoencoder [[paper]](https://arxiv.org/abs/2211.16771)<br>
