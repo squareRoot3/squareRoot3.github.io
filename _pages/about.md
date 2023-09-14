@@ -10,7 +10,7 @@ redirect_from:
 
 > 取法乎上, 仅得其中.
 
-Currently, I am a second year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
+Currently, I am a 3rd year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
 advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou/home).
 
 Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised 
@@ -18,8 +18,7 @@ by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&
 
 
 ## Research Interests 
-My research interest in general lies in **graph-based data mining** and **knowledge-driven machine learning** 
-with real-world applications in **healthcare**, **education**, **finance**, etc. 
+My research interest in general lies in **graph learning**, **anomaly detection**, and **optimal transport**.
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -73,7 +72,9 @@ ACL 2019 (Oral)
 
 ## Other Publications
 - A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data 
-[[paper]](https://openreview.net/forum?id=0jxPyVWmiiF) <br>
+[[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
+<a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
+ <br>
   Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
 ICLR 2023
 
