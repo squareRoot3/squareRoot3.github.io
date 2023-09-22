@@ -30,7 +30,7 @@ My research interest in general lies in **graph learning**, **anomaly detection*
 [[paper]](https://arxiv.org/abs/2306.12251)
 <a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
 ***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
-Arxiv Preprint
+NeurIPS 2023 Datasets and Benchmarks Track
 
 - A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
 [[paper]](https://aclanthology.org/2023.findings-acl.205/)
@@ -71,10 +71,15 @@ ACL 2019 (Oral)
 
 
 ## Other Publications
+- Outlier-Robust Gromov Wasserstein for Graph Data <br>
+Lemin Kong, Jiajin Li, **Jianheng Tang**, Anthony Man-Cho So <br>
+NeurIPS 2023
+
+
 - A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data 
 [[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
 <a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
-Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
+Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet <br>
 ICLR 2023
 
 - Handling Missing Data via Max-Entropy Regularized Graph Autoencoder [[paper]](https://arxiv.org/abs/2211.16771)<br>
