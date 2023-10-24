@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jianheng Tang's Homepage"
 title_separator          : "-"
 name                     : &name "Jianheng Tang"
-description              : &description "2nd Year PhD Student at HKUST"
+description              : &description "3rd Year PhD Student at HKUST"
 url                      : https://squareroot3.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "squareRoot3/squareRoot3.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jianheng Tang"
   avatar           : "photo.jpg"
-  bio              : "2nd Year PhD Student at HKUST"
+  bio              : "3rd Year PhD Student at HKUST"
   location         : "Hong Kong, China"
   employer         :
   pubmed           :
