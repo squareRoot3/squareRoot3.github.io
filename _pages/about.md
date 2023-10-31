@@ -71,16 +71,22 @@ ACL 2019 (Oral)
 
 
 ## Other Publications
-- Outlier-Robust Gromov Wasserstein for Graph Data <br>
+- Outlier-Robust Gromov Wasserstein for Graph Data 
+[[paper]](https://arxiv.org/abs/2302.04610) <a class="github-button" href="https://github.com/lmkong020/outlier-robust-GW" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Outlier-Robust-GW</a><br>
 Lemin Kong, Jiajin Li, **Jianheng Tang**, Anthony Man-Cho So <br>
-NeurIPS 2023
+NeurIPS 2023 (Spotlight)
 
-
-- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data 
+- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data
 [[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
 <a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
 Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet <br>
 ICLR 2023
+
+- Geometric Graph Learning for Protein Mutation Effect Prediction
+[[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
+<a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
+Kangfei Zhao, Yu Rong, Biaobin Jiang, Jianheng Tang, Hengtong Zhang, Jeffrey Xu Yu, Peilin Zhao
+CIKM 2023
 
 - Handling Missing Data via Max-Entropy Regularized Graph Autoencoder [[paper]](https://arxiv.org/abs/2211.16771)<br>
 *Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*  <br>
