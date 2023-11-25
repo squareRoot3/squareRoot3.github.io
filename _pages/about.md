@@ -28,6 +28,7 @@ My research interest in general lies in **graph learning**, **anomaly detection*
 
 - GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
 [[paper]](https://arxiv.org/abs/2306.12251)
+[[slides(LOGS Seminar)]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
 <a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
 ***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
 NeurIPS 2023 Datasets and Benchmarks Track
