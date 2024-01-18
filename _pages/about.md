@@ -77,7 +77,6 @@ ACL 2019 (Oral)
 [[paper]](https://arxiv.org/abs/2302.04610) <a class="github-button" href="https://github.com/lmkong020/outlier-robust-GW" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Outlier-Robust-GW</a><br>
 Lemin Kong, Jiajin Li, **Jianheng Tang**, Anthony Man-Cho So* <br>
 NeurIPS 2023 (Spotlight)
-![image](https://github.com/squareRoot3/squareRoot3.github.io/assets/13365477/89600802-b773-4367-a513-2ce98866754d)
 
 - A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data
 [[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
