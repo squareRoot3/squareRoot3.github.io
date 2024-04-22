@@ -24,7 +24,7 @@ My research interest in general lies in **graph learning**, **anomaly detection*
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
-## Selected Publications
+## Selected First-Author Publications
 
 - GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
 [[paper]](https://arxiv.org/abs/2306.12251)
@@ -61,7 +61,7 @@ ICML 2022
 [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
 [[article (in Chinese)]](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247516415&idx=2&sn=efa68338a8175608178f56dd99bcd54d&scene=21#wechat_redirect)
 <a class="github-button" href="https://github.com/chen-judge/GeoQA" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GeoQA</a><br>
-*Jiaqi Chen^, **Jianheng Tang^**, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin* (^: Equal Contribution)<br>
+*Jiaqi Chen^, **Jianheng Tang^**, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin*<br>
 ACL 2021 (Findings)
 
 - Target-guided Open-Domain Conversation  <br>
@@ -71,8 +71,12 @@ ACL 2021 (Findings)
 ***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
 ACL 2019 (Oral)
 
+ (^: Equal Contribution)
+
 
 ## Other Publications
+Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list.
+
 - DeepIC3: Guiding IC3 Algorithms by Graph Neural Network Clause Prediction <br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10473807/) <a class="github-button" href="https://github.com/Gy-Hu/AIG2INV" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">AIG2INV</a><br>
 Guangyu Hu, **Jianheng Tang**, Changyuan Yu, Wei Zhang, Hongce Zhang<br>
@@ -83,20 +87,11 @@ ASP-DAC 2024
 Lemin Kong, Jiajin Li, **Jianheng Tang**, Anthony Man-Cho So* <br>
 NeurIPS 2023 (Spotlight)
 
-- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data
+- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data <br>
 [[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
 <a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
 *Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet* <br>
 ICLR 2023
-
-- Geometric Graph Learning for Protein Mutation Effect Prediction<br>
-[[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614893)<br>
-*Kangfei Zhao, Yu Rong, Biaobin Jiang, **Jianheng Tang**, Hengtong Zhang, Jeffrey Xu Yu, Peilin Zhao*<br>
-CIKM 2023
-
-- Handling Missing Data via Max-Entropy Regularized Graph Autoencoder [[paper]](https://arxiv.org/abs/2211.16771)<br>
-*Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*  <br>
-AAAI 2023
 
 - "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics<br>
 [[paper]](https://arxiv.org/pdf/2204.13953v2.pdf)
@@ -116,17 +111,6 @@ NLPCC 2022
 *Jinghui Qin, Xiaodan Liang, Yining Hong, **Jianheng Tang**, Liang Lin* <br>
 ACL 2021
 
-- Heterogeneous graph reasoning for knowledge-grounded medical dialogue system<br>
-[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
-*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
-NeuroComputing 2021
-
-- Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation<br>
-[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17577/17384)
-<a class="github-button" href="https://github.com/ha-lins/GEML-MDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GEML-MDG</a><br>
-*Shuai Lin, Pan Zhou, Xiaodan Liang, **Jianheng Tang**, Ruihui Zhao, Ziliang Chen, Liang Lin* <br>
-AAAI 2021
-
 - Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation<br>
 [[paper]](https://arxiv.org/pdf/2002.01196v2.pdf)
 <a class="github-button" href="https://github.com/James-Yip/TGODC-DKRN" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">TGODC-DKRN</a><br>
@@ -138,3 +122,25 @@ AAAI 2020
 <a class="github-button" href="https://github.com/HCPLab-SYSU/Medical_DS" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Medical_DS</a><br>
 *Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*  <br>
 AAAI 2019 (Oral)
+
+ <!--
+- Heterogeneous graph reasoning for knowledge-grounded medical dialogue system<br>
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
+*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
+NeuroComputing 2021
+ 
+- Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation<br>
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17577/17384)
+<a class="github-button" href="https://github.com/ha-lins/GEML-MDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GEML-MDG</a><br>
+*Shuai Lin, Pan Zhou, Xiaodan Liang, **Jianheng Tang**, Ruihui Zhao, Ziliang Chen, Liang Lin* <br>
+AAAI 2021
+
+- Geometric Graph Learning for Protein Mutation Effect Prediction<br>
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614893)<br>
+*Kangfei Zhao, Yu Rong, Biaobin Jiang, **Jianheng Tang**, Hengtong Zhang, Jeffrey Xu Yu, Peilin Zhao*<br>
+CIKM 2023
+
+- Handling Missing Data via Max-Entropy Regularized Graph Autoencoder [[paper]](https://arxiv.org/abs/2211.16771)<br>
+*Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*  <br>
+AAAI 2023
+-->
