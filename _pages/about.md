@@ -73,7 +73,12 @@ ACL 2019 (Oral)
 
 
 ## Other Publications
-- Outlier-Robust Gromov Wasserstein for Graph Data 
+- DeepIC3: Guiding IC3 Algorithms by Graph Neural Network Clause Prediction <br>
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10473807/) <a class="github-button" href="https://github.com/Gy-Hu/AIG2INV" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">AIG2INV</a><br>
+Guangyu Hu, **Jianheng Tang**, Changyuan Yu, Wei Zhang, Hongce Zhang<br>
+ASP-DAC 2024
+
+- Outlier-Robust Gromov Wasserstein for Graph Data <br>
 [[paper]](https://arxiv.org/abs/2302.04610) <a class="github-button" href="https://github.com/lmkong020/outlier-robust-GW" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Outlier-Robust-GW</a><br>
 Lemin Kong, Jiajin Li, **Jianheng Tang**, Anthony Man-Cho So* <br>
 NeurIPS 2023 (Spotlight)
@@ -84,8 +89,8 @@ NeurIPS 2023 (Spotlight)
 *Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet* <br>
 ICLR 2023
 
-- Geometric Graph Learning for Protein Mutation Effect Prediction
-[[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614893)
+- Geometric Graph Learning for Protein Mutation Effect Prediction<br>
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614893)<br>
 *Kangfei Zhao, Yu Rong, Biaobin Jiang, **Jianheng Tang**, Hengtong Zhang, Jeffrey Xu Yu, Peilin Zhao*<br>
 CIKM 2023
 
@@ -93,42 +98,42 @@ CIKM 2023
 *Ziqi Gao, Yifan Niu, Jiashun Cheng, **Jianheng Tang**, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li*  <br>
 AAAI 2023
 
-- "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics
+- "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics<br>
 [[paper]](https://arxiv.org/pdf/2204.13953v2.pdf)
 <a class="github-button" href="https://github.com/lwgkzl/br-agent" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BR-Agent</a><br>
 *Wenge Liu, Yi Cheng, Hao Wang, **Jianheng Tang**, Yafei Liu, Ruihui Zhao, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
 IJCAI 2022
 
-- MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation
+- MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation<br>
 [[paper]](https://arxiv.org/pdf/2010.07497)
 <a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
 *Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang*<br>
 NLPCC 2022
 
-- Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks
+- Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks<br>
 [[paper]](https://aclanthology.org/2021.acl-long.456.pdf)
 <a class="github-button" href="https://github.com/QinJinghui/NS-Solver" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">NS-Solver</a><br>
 *Jinghui Qin, Xiaodan Liang, Yining Hong, **Jianheng Tang**, Liang Lin* <br>
 ACL 2021
 
-- Heterogeneous graph reasoning for knowledge-grounded medical dialogue system
+- Heterogeneous graph reasoning for knowledge-grounded medical dialogue system<br>
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
 *Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
 NeuroComputing 2021
 
-- Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation
+- Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation<br>
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17577/17384)
 <a class="github-button" href="https://github.com/ha-lins/GEML-MDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GEML-MDG</a><br>
 *Shuai Lin, Pan Zhou, Xiaodan Liang, **Jianheng Tang**, Ruihui Zhao, Ziliang Chen, Liang Lin* <br>
 AAAI 2021
 
-- Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation
+- Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation<br>
 [[paper]](https://arxiv.org/pdf/2002.01196v2.pdf)
 <a class="github-button" href="https://github.com/James-Yip/TGODC-DKRN" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">TGODC-DKRN</a><br>
 *Jinghui Qin, Zheng Ye, **Jianheng Tang**, Xiaodan Liang* <br>
 AAAI 2020
 
-- End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis
+- End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis<br>
 [[paper]](https://arxiv.org/pdf/1901.10623v2.pdf)
 <a class="github-button" href="https://github.com/HCPLab-SYSU/Medical_DS" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Medical_DS</a><br>
 *Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*  <br>
