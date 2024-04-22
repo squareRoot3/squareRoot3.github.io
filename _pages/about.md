@@ -123,7 +123,7 @@ AAAI 2020
 *Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*  <br>
 AAAI 2019 (Oral)
 
- <!--
+<!--
 - Heterogeneous graph reasoning for knowledge-grounded medical dialogue system<br>
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
 *Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
