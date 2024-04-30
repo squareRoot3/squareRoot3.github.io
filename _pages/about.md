@@ -78,7 +78,7 @@ ACL 2019 (Oral)
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list.
 
 - 4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on Relational DBs <br>
-<a class="github-button" href="https://github.com/awslabs/multi-table-benchmark" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">multi-table-benchmark</a><br>
+[[paper]](https://arxiv.org/abs/2404.18209)<a class="github-button" href="https://github.com/awslabs/multi-table-benchmark" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">multi-table-benchmark</a><br>
 Arxiv 2024
 
 - DeepIC3: Guiding IC3 Algorithms by Graph Neural Network Clause Prediction <br>
