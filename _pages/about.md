@@ -26,8 +26,9 @@ Feel free to [contact me](mailto:sqrt3tjh@gmail.com) if you are interested in re
 ### Graph Anomaly Detection
 - GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
 [[paper]](https://arxiv.org/abs/2306.12251)
-[[slides(LOGS Seminar)]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
-[[Talk(Chinese)]](https://www.bilibili.com/video/BV1Yu4y157BN/?spm_id_from=333.337.search-card.all.click)
+[[slides]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
+[[talk (Chinese)]](https://www.bilibili.com/video/BV1Yu4y157BN/?spm_id_from=333.337.search-card.all.click)
+[[talk (English)]](https://neurips.cc/virtual/2023/poster/73582)
 <a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
 ***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
 NeurIPS 2023 Datasets and Benchmarks Track
@@ -35,9 +36,9 @@ NeurIPS 2023 Datasets and Benchmarks Track
 - Rethinking Graph Neural Networks for Anomaly Detection <br>
 [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
 [[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
-[[media (in Chinese)]](https://www.jiqizhixin.com/articles/2022-06-10-3)
-[[talk (in Chinese)]](https://www.bilibili.com/video/BV1BG411p7og/)
-[[talk (in English)]](https://slideslive.com/38984068/rethinking-graph-neural-networks-for-anomaly-detection?ref=speaker-24150)
+[[media (Chinese)]](https://www.jiqizhixin.com/articles/2022-06-10-3)
+[[talk (Chinese)]](https://www.bilibili.com/video/BV1BG411p7og/)
+[[talk (English)]](https://slideslive.com/38984068/rethinking-graph-neural-networks-for-anomaly-detection?ref=speaker-24150)
 <a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
 ***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
 ICML 2022
@@ -52,14 +53,14 @@ Preprint
 
 - GraphWiz: An Instruction-Following Language Model for Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2402.16029)
-[[media (in Chinese)]](https://36kr.com/p/2815034915392002)
+[[media (Chinese)]](https://36kr.com/p/2815034915392002)
 <a class="github-button" href="https://github.com/nuochenpku/Graph-Reasoning-LLM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Graph Reasoning LLM</a><br>
 *Nuo Chen^, Yuhan Li^, **Jianheng Tang**^, Jia Li* <br>
 KDD 2024 (^: Equal Contribution)
 
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
 [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
-[[article (in Chinese)]](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247516415&idx=2&sn=efa68338a8175608178f56dd99bcd54d&scene=21#wechat_redirect)
+[[media (Chinese)]](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247516415&idx=2&sn=efa68338a8175608178f56dd99bcd54d&scene=21#wechat_redirect)
 <a class="github-button" href="https://github.com/chen-judge/GeoQA" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GeoQA</a><br>
 *Jiaqi Chen^, **Jianheng Tang^**, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin*<br>
 ACL 2021 (Findings)
