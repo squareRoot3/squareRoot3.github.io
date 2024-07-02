@@ -30,7 +30,7 @@ Preprint
 
 - GraphWiz: An Instruction-Following Language Model for Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2402.16029)
-[[media (in Chinese)]]( )
+[[media (in Chinese)]](https://36kr.com/p/2815034915392002)
 <a class="github-button" href="https://github.com/nuochenpku/Graph-Reasoning-LLM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Graph Reasoning LLM</a><br>
 *Nuo Chen^, Yuhan Li^, **Jianheng Tang**^, Jia Li* (^: Equal Contribution) <br>  
 KDD 2024
