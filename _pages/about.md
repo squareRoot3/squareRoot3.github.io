@@ -10,52 +10,30 @@ redirect_from:
 
 > 取法乎上, 仅得其中.
 
-Currently, I am a 3rd year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
+Currently, I am a final year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
 advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou/home).
 
-Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised 
-by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). I obtained my bachelor degree in Mathematics from Soochow University in 2019.
-
-
-## Research Interests 
-My research interest in general lies in **graph learning**, **anomaly detection**, and **optimal transport**.
+Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). 
+I obtained my bachelor degree in Mathematics from Soochow University in 2019.
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-
 ## Selected First-Author Publications
 
-- GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
-[[paper]](https://arxiv.org/abs/2306.12251)
-[[slides(LOGS Seminar)]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
-[[Talk(Chinese)]](https://www.bilibili.com/video/BV1Yu4y157BN/?spm_id_from=333.337.search-card.all.click)
-<a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
-***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
-NeurIPS 2023 Datasets and Benchmarks Track
+### Language Model for (Graph) Reasoning
+- GraphArena: GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
+[[paper]](https://arxiv.org/pdf/2407.00379)
+<a class="github-button" href="https://github.com/squareroot3/GraphArena" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GraphArena</a><br>
+***Jianheng Tang**, Qifan Zhang, Yuhan Zhang, Jia Li* (^: Equal Contribution) <br>  
+Preprint
 
-- A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
-[[paper]](https://aclanthology.org/2023.findings-acl.205/)
-<a class="github-button" href="https://github.com/squareroot3/FusedGW-Entity-Alignment" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FusedGW-Entity-Alignment</a><br>
-***Jianheng Tang**, Kangfei Zhao, Jia Li* <br>
-ACL 2023 (Findings)
-
-- Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
-[[paper]](https://arxiv.org/abs/2301.12721)
-[[slides]](https://drive.google.com/file/d/1dI1aCuqlO0NlPXQxaT85YGZzRRsx5VFg/view?usp=sharing)
-<a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
-***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
-ICDE 2023
-  
-- Rethinking Graph Neural Networks for Anomaly Detection <br>
-[[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
-[[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
-[[article (in Chinese)]](https://www.jiqizhixin.com/articles/2022-06-10-3)
-[[talk (in Chinese)]](https://www.bilibili.com/video/BV1BG411p7og/)
-[[talk (in English)]](https://slideslive.com/38984068/rethinking-graph-neural-networks-for-anomaly-detection?ref=speaker-24150)
-<a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
-***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
-ICML 2022
+- GraphWiz: An Instruction-Following Language Model for Graph Computational Problems <br>
+[[paper]](https://arxiv.org/pdf/2402.16029)
+[[media (in Chinese)]]( )
+<a class="github-button" href="https://github.com/nuochenpku/Graph-Reasoning-LLM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Graph Reasoning LLM</a><br>
+*Nuo Chen^, Yuhan Li^, **Jianheng Tang**^, Jia Li* (^: Equal Contribution) <br>  
+KDD 2024
 
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
 [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
@@ -71,7 +49,40 @@ ACL 2021 (Findings)
 ***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
 ACL 2019 (Oral)
 
- (^: Equal Contribution)
+
+### Graph Anomaly Detection
+- GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
+[[paper]](https://arxiv.org/abs/2306.12251)
+[[slides(LOGS Seminar)]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
+[[Talk(Chinese)]](https://www.bilibili.com/video/BV1Yu4y157BN/?spm_id_from=333.337.search-card.all.click)
+<a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
+***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
+NeurIPS 2023 Datasets and Benchmarks Track
+
+- Rethinking Graph Neural Networks for Anomaly Detection <br>
+[[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
+[[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
+[[media (in Chinese)]](https://www.jiqizhixin.com/articles/2022-06-10-3)
+[[talk (in Chinese)]](https://www.bilibili.com/video/BV1BG411p7og/)
+[[talk (in English)]](https://slideslive.com/38984068/rethinking-graph-neural-networks-for-anomaly-detection?ref=speaker-24150)
+<a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
+***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
+ICML 2022
+
+### Graph Alignment
+- A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
+[[paper]](https://aclanthology.org/2023.findings-acl.205/)
+<a class="github-button" href="https://github.com/squareroot3/FusedGW-Entity-Alignment" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FusedGW-Entity-Alignment</a><br>
+***Jianheng Tang**, Kangfei Zhao, Jia Li* <br>
+ACL 2023 (Findings)
+
+- Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
+[[paper]](https://arxiv.org/abs/2301.12721)
+[[slides]](https://drive.google.com/file/d/1dI1aCuqlO0NlPXQxaT85YGZzRRsx5VFg/view?usp=sharing)
+<a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
+***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
+ICDE 2023
+
 
 
 ## Other Publications
