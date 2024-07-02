@@ -21,8 +21,28 @@ I obtained my bachelor degree in Mathematics from Soochow University in 2019.
 
 ## Selected First-Author Publications
 
+### Graph Anomaly Detection
+- GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
+[[paper]](https://arxiv.org/abs/2306.12251)
+[[slides(LOGS Seminar)]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
+[[Talk(Chinese)]](https://www.bilibili.com/video/BV1Yu4y157BN/?spm_id_from=333.337.search-card.all.click)
+<a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
+***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
+NeurIPS 2023 Datasets and Benchmarks Track
+
+- Rethinking Graph Neural Networks for Anomaly Detection <br>
+[[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
+[[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
+[[media (in Chinese)]](https://www.jiqizhixin.com/articles/2022-06-10-3)
+[[talk (in Chinese)]](https://www.bilibili.com/video/BV1BG411p7og/)
+[[talk (in English)]](https://slideslive.com/38984068/rethinking-graph-neural-networks-for-anomaly-detection?ref=speaker-24150)
+<a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
+***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
+ICML 2022
+
+
 ### Language Model for (Graph) Reasoning
-- GraphArena: GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
+- GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2407.00379)
 <a class="github-button" href="https://github.com/squareroot3/GraphArena" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GraphArena</a><br>
 ***Jianheng Tang**, Qifan Zhang, Yuhan Zhang, Jia Li* <br>
@@ -49,25 +69,6 @@ ACL 2021 (Findings)
 ***Jianheng Tang**, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric P. Xing, Zhiting Hu* <br>
 ACL 2019 (Oral)
 
-
-### Graph Anomaly Detection
-- GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
-[[paper]](https://arxiv.org/abs/2306.12251)
-[[slides(LOGS Seminar)]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
-[[Talk(Chinese)]](https://www.bilibili.com/video/BV1Yu4y157BN/?spm_id_from=333.337.search-card.all.click)
-<a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
-***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
-NeurIPS 2023 Datasets and Benchmarks Track
-
-- Rethinking Graph Neural Networks for Anomaly Detection <br>
-[[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
-[[slides]](https://icml.cc/media/icml-2022/Slides/17968_le6HH92.pdf)
-[[media (in Chinese)]](https://www.jiqizhixin.com/articles/2022-06-10-3)
-[[talk (in Chinese)]](https://www.bilibili.com/video/BV1BG411p7og/)
-[[talk (in English)]](https://slideslive.com/38984068/rethinking-graph-neural-networks-for-anomaly-detection?ref=speaker-24150)
-<a class="github-button" href="https://github.com/squareroot3/rethinking-anomaly-detection" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Rethinking-Anomaly-Detection</a><br>
-***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
-ICML 2022
 
 ### Graph Alignment
 - A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
