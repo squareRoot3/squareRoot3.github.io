@@ -25,15 +25,15 @@ I obtained my bachelor degree in Mathematics from Soochow University in 2019.
 - GraphArena: GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2407.00379)
 <a class="github-button" href="https://github.com/squareroot3/GraphArena" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GraphArena</a><br>
-***Jianheng Tang**, Qifan Zhang, Yuhan Zhang, Jia Li* (^: Equal Contribution) <br>  
+***Jianheng Tang**, Qifan Zhang, Yuhan Zhang, Jia Li* <br>
 Preprint
 
 - GraphWiz: An Instruction-Following Language Model for Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2402.16029)
 [[media (in Chinese)]](https://36kr.com/p/2815034915392002)
 <a class="github-button" href="https://github.com/nuochenpku/Graph-Reasoning-LLM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Graph Reasoning LLM</a><br>
-*Nuo Chen^, Yuhan Li^, **Jianheng Tang**^, Jia Li* (^: Equal Contribution) <br>  
-KDD 2024
+*Nuo Chen^, Yuhan Li^, **Jianheng Tang**^, Jia Li* <br>
+KDD 2024 (^: Equal Contribution)
 
 - GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning
 [[paper]](https://aclanthology.org/2021.findings-acl.46.pdf)
