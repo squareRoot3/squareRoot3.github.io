@@ -14,7 +14,7 @@ Currently, I am a final year PhD student at [The Hong Kong University of Science
 advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou/home).
 
 Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). 
-I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab&Jarvis Lab and Deep Graph Library team, Amazon Web Services AI Shanghai Lablet.
+I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab, Tencent Jarvis Lab, and Deep Graph Library team, Amazon Web Services AI Shanghai Lablet.
 
 Feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com) if you are interested in research collaborations or have any job recommendations.
 
