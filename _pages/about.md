@@ -44,7 +44,7 @@ NeurIPS 2023 Datasets and Benchmarks Track
 ICML 2022
 
 
-### Language Model for (Graph) Reasoning
+### Language Model for (Graph/Mathematical) Reasoning
 - GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2407.00379)
 <a class="github-button" href="https://github.com/squareroot3/GraphArena" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GraphArena</a><br>
@@ -73,7 +73,7 @@ ACL 2021 (Findings)
 ACL 2019 (Oral)
 
 
-### Graph Alignment
+### Graph Alignment/Entity Matching
 - A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
 [[paper]](https://aclanthology.org/2023.findings-acl.205/)
 <a class="github-button" href="https://github.com/squareroot3/FusedGW-Entity-Alignment" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FusedGW-Entity-Alignment</a><br>
@@ -86,7 +86,6 @@ ACL 2023 (Findings)
 <a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
 ***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
 ICDE 2023
-
 
 
 ## Other Publications
