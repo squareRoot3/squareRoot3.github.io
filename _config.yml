@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianheng Tang (唐鉴恒)"
+  name             : "Jianheng Tang \n 唐鉴恒"
   avatar           : "photo.jpg"
-  bio              : "Per aspera ad astra\n循此苦旅 以达星辰\nSidere mens eadem mutato\n繁星纵变 智慧永恒"
+  bio              : "Per aspera ad astra \n\n 循此苦旅 以达星辰 \n \nSidere mens eadem mutato \n \n 繁星纵变 智慧永恒"
   location         : "Hong Kong, China"
   employer         :
   pubmed           :
