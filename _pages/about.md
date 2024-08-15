@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-> 取法乎上, 仅得其中. Shoot for the moon, land among the stars.
+```
+Per aspera ad astra
+循此苦旅 以达星辰
+Sidere mens eadem mutato
+繁星纵变 智慧永恒
+```
 
 Currently, I am a final year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
 advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou/home).
@@ -16,7 +21,7 @@ advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofa
 Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). 
 I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab, Tencent Jarvis Lab, and Deep Graph Library team, Amazon Web Services AI Shanghai Lablet.
 
-Feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com) if you are interested in research collaborations or have any job recommendations.
+I'm on the job market: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com) if you are interested in research collaborations or have any job recommendations.
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
