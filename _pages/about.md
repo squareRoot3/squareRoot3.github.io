@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-```
-Per aspera ad astra
-循此苦旅 以达星辰
-Sidere mens eadem mutato
-繁星纵变 智慧永恒
-```
+> 取法乎上, 仅得其中.  
+> Shoot for the moon, land among the stars.
 
 Currently, I am a final year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
 advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou/home).
