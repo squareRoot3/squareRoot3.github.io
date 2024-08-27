@@ -92,6 +92,11 @@ ICDE 2023
 ## Other Publications
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list.
 
+
+- Galaxybase: A High Performance Native Distributed Graph Database for HTAP <br>
+[[Paper]](https://vldb.org/pvldb/volumes/17/paper/Galaxybase%3A%20A%20High%20Performance%20Native%20Distributed%20Graph%20Database%20for%20HTAP)    
+VLDB 2024
+
 - 4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on Relational DBs <br>
 [[paper]](https://arxiv.org/abs/2404.18209)<a class="github-button" href="https://github.com/awslabs/multi-table-benchmark" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">multi-table-benchmark</a><br>
 Arxiv 2024
