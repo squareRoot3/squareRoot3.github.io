@@ -93,13 +93,19 @@ ICDE 2023
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list.
 
 
-- Galaxybase: A High Performance Native Distributed Graph Database for HTAP <br>
-[[Paper]](https://vldb.org/pvldb/volumes/17/paper/Galaxybase%3A%20A%20High%20Performance%20Native%20Distributed%20Graph%20Database%20for%20HTAP)    
-VLDB 2024
+- UniGAD: Unifying Multi-level Graph Anomaly Detection<br>
+Yiqing Lin, **Jianheng Tang**, Chenyi Zi, H. Vicky Zhao, Yuan Yao, Jia Li <br>
+NeurIPS 2024
 
 - 4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on Relational DBs <br>
 [[paper]](https://arxiv.org/abs/2404.18209)<a class="github-button" href="https://github.com/awslabs/multi-table-benchmark" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">multi-table-benchmark</a><br>
-Arxiv 2024
+Minjie Wang, Quan Gan, David Wipf, Zhenkun Cai, Ning Li, **Jianheng Tang**, and 14 authors<br>
+NeurIPS 2024 Datasets and Benchmarks Track
+
+- Galaxybase: A High Performance Native Distributed Graph Database for HTAP <br>
+[[Paper]](https://vldb.org/pvldb/volumes/17/paper/Galaxybase%3A%20A%20High%20Performance%20Native%20Distributed%20Graph%20Database%20for%20HTAP)<br>
+Bing Tong, Yan Zhou, Chen Zhang, **Jianheng Tang**, and 7 authors<br>
+VLDB 2024 Industrial Track
 
 - DeepIC3: Guiding IC3 Algorithms by Graph Neural Network Clause Prediction <br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10473807/) <a class="github-button" href="https://github.com/Gy-Hu/AIG2INV" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">AIG2INV</a><br>
