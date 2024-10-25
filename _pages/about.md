@@ -33,8 +33,9 @@ I'm on the job market: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqr
 <a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
 ***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
 NeurIPS 2023 Datasets and Benchmarks Track
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=918886620&bvid=BV1Yu4y157BN&cid=1345045244&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<div style="position: relative; padding: 30% 45%;">
+	<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?isOutside=true&aid=918886620&bvid=BV1Yu4y157BN&cid=1345045244&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
+</div>
 
 - Rethinking Graph Neural Networks for Anomaly Detection <br>
 [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
