@@ -17,7 +17,7 @@ advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofa
 Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). 
 I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab, Tencent Jarvis Lab, and Deep Graph Library team, Amazon Web Services AI Shanghai Lablet.
 
-I'm on the job market: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com) if you are interested in research collaborations or have any job recommendations.
+I'm on the job market: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com; WeChat: sqrt3tjh) if you are interested in research collaborations or have any job recommendations.
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -33,6 +33,8 @@ I'm on the job market: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqr
 <a class="github-button" href="https://github.com/squareroot3/GADBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GADBench</a><br>
 ***Jianheng Tang**, Fengrui Hua, Ziqi Gao, Peilin Zhao, Jia Li* <br>
 NeurIPS 2023 Datasets and Benchmarks Track
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=918886620&bvid=BV1Yu4y157BN&cid=1345045244&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 - Rethinking Graph Neural Networks for Anomaly Detection <br>
 [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf) 
