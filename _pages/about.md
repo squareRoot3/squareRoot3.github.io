@@ -26,6 +26,7 @@ I'm looking for full time opportunities: feel free to [contact me](mailto:sqrt3t
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list. Feel free to contact me if you have any questions about my research.
 
 ### Learning Similarities and Anomalies on Graphs
+
 - GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
 [[paper]](https://arxiv.org/abs/2306.12251)
 [[slides]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
@@ -66,7 +67,8 @@ ICLR 2023
 
 
 
-### Language Model for Graph/Knowledge/Mathematical/Multimodal Reasoning
+### Language Model for Graph & Knowledge & Mathematical & Multimodal Reasoning
+
 - GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2407.00379)
 <a class="github-button" href="https://github.com/squareroot3/GraphArena" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GraphArena</a><br>
