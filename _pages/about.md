@@ -25,7 +25,7 @@ I'm looking for full time opportunities: feel free to [contact me](mailto:sqrt3t
 
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list. Feel free to contact me if you have any questions about my research.
 
-### Graph Anomaly Detection
+### Learning Similarities and Anomalies on Graphs
 - GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
 [[paper]](https://arxiv.org/abs/2306.12251)
 [[slides]](https://drive.google.com/file/d/1jiZUi60ez4Ltm8hJ-YqSlIuVpJgAzWDF/view?usp=sharing)
