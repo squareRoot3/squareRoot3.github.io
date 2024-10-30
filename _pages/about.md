@@ -16,7 +16,9 @@ advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofa
 Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). 
 I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab, Tencent Jarvis Lab, and Deep Graph Library team from Amazon Web Services Shanghai AI Lab.
 
-I'm looking for full time opportunities: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com; WeChat: sqrt3tjh) if you have any job recommendations.
+I'm looking for full time opportunities: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com; or [WeChat](https://github.com/squareRoot3/squareRoot3.github.io/blob/main/images/wechat.jpg)) if you have any job recommendations.
+
+
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -64,8 +66,6 @@ ICDE 2023
 <a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
 *Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet* <br>
 ICLR 2023
-
-
 
 ### Language Model for Graph & Knowledge & Mathematical & Multimodal Reasoning
 
@@ -163,9 +163,10 @@ AAAI 2020
 *Lin Xu, Qixian Zhou, Ke Gong, Xiaodan Liang, **Jianheng Tang**, Liang Lin*  <br>
 AAAI 2019 (Oral)
 
+
+
 <!--
 
- 
 - Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation<br>
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17577/17384)
 <a class="github-button" href="https://github.com/ha-lins/GEML-MDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GEML-MDG</a><br>
