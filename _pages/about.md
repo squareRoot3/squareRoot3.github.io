@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-> 取法乎上, 仅得其中.  
-> Shoot for the moon, land among the stars.
+> 取法乎上, 仅得其中. Shoot for the moon, land among the stars.
 
-Currently, I am a final year PhD student at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
+I am a final year PhD candidate at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 
 advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou/home).
 
 Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). 
-I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab, Tencent Jarvis Lab, and Deep Graph Library team, Amazon Web Services AI Shanghai Lablet.
+I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab, Tencent Jarvis Lab, and Deep Graph Library team from Amazon Web Services Shanghai AI Lab.
 
-I'm on the job market: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com; WeChat: sqrt3tjh) if you are interested in research collaborations or have any job recommendations.
+I'm looking for full time opportunities: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com; WeChat: sqrt3tjh) if you have any job recommendations.
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-## Selected First-Author Publications
+## My Research
+
+Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list. Feel free to contact me if you have any questions about my research.
 
 ### Graph Anomaly Detection
 - GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection <br>
@@ -44,8 +45,28 @@ NeurIPS 2023 Datasets and Benchmarks Track
 ***Jianheng Tang**, Jiajin Li, Ziqi Gao, Jia Li* <br>
 ICML 2022
 
+- A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
+[[paper]](https://aclanthology.org/2023.findings-acl.205/)
+<a class="github-button" href="https://github.com/squareroot3/FusedGW-Entity-Alignment" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FusedGW-Entity-Alignment</a><br>
+***Jianheng Tang**, Kangfei Zhao, Jia Li* <br>
+ACL 2023 (Findings)
 
-### Language Model for (Graph/Mathematical) Reasoning
+- Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
+[[paper]](https://arxiv.org/abs/2301.12721)
+[[slides]](https://drive.google.com/file/d/1dI1aCuqlO0NlPXQxaT85YGZzRRsx5VFg/view?usp=sharing)
+<a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
+***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
+ICDE 2023
+
+- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data <br>
+[[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
+<a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
+*Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet* <br>
+ICLR 2023
+
+
+
+### Language Model for Graph/Knowledge/Mathematical/Multimodal Reasoning
 - GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2407.00379)
 <a class="github-button" href="https://github.com/squareroot3/GraphArena" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GraphArena</a><br>
@@ -74,24 +95,7 @@ ACL 2021 (Findings)
 ACL 2019 (Oral)
 
 
-### Graph Alignment/Entity Matching
-- A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment <br>
-[[paper]](https://aclanthology.org/2023.findings-acl.205/)
-<a class="github-button" href="https://github.com/squareroot3/FusedGW-Entity-Alignment" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FusedGW-Entity-Alignment</a><br>
-***Jianheng Tang**, Kangfei Zhao, Jia Li* <br>
-ACL 2023 (Findings)
-
-- Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport <br>
-[[paper]](https://arxiv.org/abs/2301.12721)
-[[slides]](https://drive.google.com/file/d/1dI1aCuqlO0NlPXQxaT85YGZzRRsx5VFg/view?usp=sharing)
-<a class="github-button" href="https://github.com/squareroot3/SLOTAlign" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SLOTAlign</a><br>
-***Jianheng Tang**, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li* <br>
-ICDE 2023
-
-
 ## Other Publications
-Please refer to my [Google Scholar](https://scholar.google.com/citations?user=w4kWvXEAAAAJ&hl=zh-CN&oi=ao) for a complete pubilication list.
-
 
 - UniGAD: Unifying Multi-level Graph Anomaly Detection<br>
 Yiqing Lin, **Jianheng Tang**, Chenyi Zi, H. Vicky Zhao, Yuan Yao, Jia Li <br>
@@ -103,9 +107,14 @@ Minjie Wang, Quan Gan, David Wipf, Zhenkun Cai, Ning Li, **Jianheng Tang**, and 
 NeurIPS 2024 Datasets and Benchmarks Track
 
 - Galaxybase: A High Performance Native Distributed Graph Database for HTAP <br>
-[[Paper]](https://vldb.org/pvldb/volumes/17/paper/Galaxybase%3A%20A%20High%20Performance%20Native%20Distributed%20Graph%20Database%20for%20HTAP)<br>
+[[paper]](https://vldb.org/pvldb/volumes/17/paper/Galaxybase%3A%20A%20High%20Performance%20Native%20Distributed%20Graph%20Database%20for%20HTAP)[[website]](https://www.galaxybase.com/)<br>
 Bing Tong, Yan Zhou, Chen Zhang, **Jianheng Tang**, and 7 authors<br>
 VLDB 2024 Industrial Track
+
+- GCoder: Improving Large Language Model for Generalized Graph Problem Solving <br>
+[[paper]](https://arxiv.org/abs/2410.19084)<a class="github-button" href="https://github.com/awslabs/multi-table-benchmark" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GCoder</a><br>
+Qifan Zhang, Xiaobin Hong, **Jianheng Tang**, Nuo Chen, Yuhan Li, Wenzhong Li, Jing Tang, Jia Li  <br>
+Preprint
 
 - DeepIC3: Guiding IC3 Algorithms by Graph Neural Network Clause Prediction <br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10473807/) <a class="github-button" href="https://github.com/Gy-Hu/AIG2INV" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">AIG2INV</a><br>
@@ -117,11 +126,11 @@ ASP-DAC 2024
 Lemin Kong, Jiajin Li, **Jianheng Tang**, Anthony Man-Cho So* <br>
 NeurIPS 2023 (Spotlight)
 
-- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data <br>
-[[paper]](https://openreview.net/forum?id=0jxPyVWmiiF)
-<a class="github-button" href="https://github.com/squareRoot3/Gromov-Wasserstein-for-Graph" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Gromov-Wasserstein-for-Graph</a><br>
-*Jiajin Li,  **Jianheng Tang**, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet* <br>
-ICLR 2023
+- MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation<br>
+[[paper]](https://arxiv.org/pdf/2010.07497)
+<a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
+*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang*<br>
+NLPCC 2022
 
 - "My nose is running.""Are you also coughing?": Building A Medical Diagnosis Agent with Interpretable Inquiry Logics<br>
 [[paper]](https://arxiv.org/pdf/2204.13953v2.pdf)
@@ -129,11 +138,10 @@ ICLR 2023
 *Wenge Liu, Yi Cheng, Hao Wang, **Jianheng Tang**, Yafei Liu, Ruihui Zhao, Wenjie Li, Yefeng Zheng, Xiaodan Liang* <br>
 IJCAI 2022
 
-- MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation<br>
-[[paper]](https://arxiv.org/pdf/2010.07497)
-<a class="github-button" href="https://github.com/lwgkzl/MedDG" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MedDG</a><br>
-*Wenge Liu^, **Jianheng Tang^**, Yi Cheng^, Wenjie Li, Yefeng Zheng, Xiaodan Liang*<br>
-NLPCC 2022
+- Heterogeneous graph reasoning for knowledge-grounded medical dialogue system<br>
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
+*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
+NeuroComputing 2021
 
 - Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks<br>
 [[paper]](https://aclanthology.org/2021.acl-long.456.pdf)
@@ -154,10 +162,7 @@ AAAI 2020
 AAAI 2019 (Oral)
 
 <!--
-- Heterogeneous graph reasoning for knowledge-grounded medical dialogue system<br>
-[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002678) <br>
-*Wenge Liu, **Jianheng Tang**, Xiaodan Liang, Qingling Cai* <br>
-NeuroComputing 2021
+
  
 - Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation<br>
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17577/17384)
