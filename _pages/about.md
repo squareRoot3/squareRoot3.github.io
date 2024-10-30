@@ -16,7 +16,7 @@ advised by [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Xiaofa
 Previously, I received my MPhil degree from the Sun Yat-sen University in 2021, where I was fortunate to be advised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). 
 I obtained my bachelor degree in Mathematics from Soochow University in 2019. I interned at Tencent AI Lab, Tencent Jarvis Lab, and Deep Graph Library team from Amazon Web Services Shanghai AI Lab.
 
-I'm looking for full time opportunities: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com; or [WeChat](https://github.com/squareRoot3/squareRoot3.github.io/blob/main/images/wechat.jpg)) if you have any job recommendations.
+I'm looking for full time opportunities: feel free to [contact me](mailto:sqrt3tjh@gmail.com) (sqrt3tjh AT gmail DOT com; or [WeChat](/images/wechat.jpg)) if you have any job recommendations.
 
 
 
