@@ -69,11 +69,10 @@ ICLR 2023
 
 ### Language Model for Graph & Knowledge & Mathematical & Multimodal Reasoning
 
-- GraphArena: Benchmarking Large Language Models on Graph Computational Problems <br>
-[[paper]](https://arxiv.org/pdf/2407.00379)
+- Evaluating and Exploring Large Language Models on Graph Computation <br>
+[[paper]](https://openreview.net/forum?id=Y1r9yCMzeA)
 <a class="github-button" href="https://github.com/squareroot3/GraphArena" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GraphArena</a><br>
-***Jianheng Tang**, Qifan Zhang, Yuhan Zhang, Jia Li* <br>
-Preprint
+***Jianheng Tang**, Qifan Zhang, Yuhan Zhang, Nuo Chen, Jia Li* <br>
 
 - GraphWiz: An Instruction-Following Language Model for Graph Computational Problems <br>
 [[paper]](https://arxiv.org/pdf/2402.16029)
